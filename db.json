@@ -15,7 +15,8 @@
             "name": "Apple Watch Band Milanese Loop",
             "seller": "MoKo",
             "isAvailable": true,
-            "isEligible": false
+            "isEligible": false,
+            "price":"10.90"
         }
     ],
     "saved": [
